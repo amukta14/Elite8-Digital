@@ -65,7 +65,7 @@ export default function Home() {
           className="flex justify-center gap-6 mb-8"
         >
           <motion.a
-            href="https://github.com/yourusername"
+            href="https://github.com/amukta14"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.2, y: -5 }}
@@ -74,7 +74,7 @@ export default function Home() {
             <FaGithub />
           </motion.a>
           <motion.a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/amukta-yajamanyam-1287a6275/"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.2, y: -5 }}
@@ -83,7 +83,7 @@ export default function Home() {
             <FaLinkedin />
           </motion.a>
           <motion.a
-            href="https://twitter.com/yourusername"
+            href="https://x.com/amukta05"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.2, y: -5 }}

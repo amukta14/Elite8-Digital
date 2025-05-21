@@ -9,7 +9,7 @@ import LoadingScreen from "@/components/LoadingScreen";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Amukta Portfolio",
+  title: "Amukta's Portfolio",
   description: "Personal portfolio website showcasing my work and skills",
   metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || 'https://amukta-portfolio.onrender.com'),
   keywords: "Full-Stack Developer, Software Engineer, Problem Solver, React, Node.js, Python, Competitive Programming",
