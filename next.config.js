@@ -14,9 +14,7 @@ const nextConfig = {
   env: {
     NEXT_PUBLIC_BASE_URL: process.env.NEXT_PUBLIC_BASE_URL || 'https://amukta-portfolio.onrender.com',
   },
-  experimental: {
-    metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || 'https://amukta-portfolio.onrender.com'),
-  },
+  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL || 'https://amukta-portfolio.onrender.com'),
 }
 
 module.exports = nextConfig 
