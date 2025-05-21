@@ -101,8 +101,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Amukta Yajamanyam**
 - GitHub: [@amukta14](https://github.com/amukta14)
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio URL]
 
 ## 🙏 Acknowledgments
 
