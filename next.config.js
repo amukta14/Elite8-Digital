@@ -12,7 +12,7 @@ const nextConfig = {
     ],
   },
   env: {
-    NEXT_PUBLIC_BASE_URL: process.env.NEXT_PUBLIC_BASE_URL || 'https://amukta-portfolio.onrender.com',
+    NEXT_PUBLIC_BASE_URL: process.env.NEXT_PUBLIC_BASE_URL || 'https://elite8-digital.onrender.com',
   }
 }
 
