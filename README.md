@@ -1,5 +1,4 @@
-# Amukta Yajamanyam's Portfolio
-
+# My Portfolio
 A modern, responsive portfolio website built with Next.js, showcasing my work as a Full-Stack Developer.
 
 ## 🚀 Features
